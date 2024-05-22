@@ -74,7 +74,7 @@ This theme uses the "Tachyons" CSS library. This will allow you to manipulate th
 Inside the folder of your Hugo site run:
 
 ```
-$ git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke
+$ git submodule add https://github.com/adamglenn/wvu-design-system-hugo.git themes/ananke
 ```
 For more information read the official [setup guide](//gohugo.io/overview/installing/) of Hugo.
 
@@ -87,7 +87,7 @@ After installing the theme successfully it requires a just a few more steps to g
 
 ### The config file
 
-Take a look inside the [`exampleSite`](https://github.com/theNewDynamic/gohugo-theme-ananke/tree/master/exampleSite) folder of this theme. You'll find a file called [`config.toml`](https://github.com/theNewDynamic/gohugo-theme-ananke/blob/master/exampleSite/config.toml). To use it, copy the [`config.toml`](https://github.com/theNewDynamic/gohugo-theme-ananke/blob/master/exampleSite/config.toml) in the root folder of your Hugo site. Feel free to change the strings in this theme.
+Take a look inside the [`exampleSite`](https://github.com/adamglenn/wvu-design-system-hugo/tree/master/exampleSite) folder of this theme. You'll find a file called [`config.toml`](https://github.com/adamglenn/wvu-design-system-hugo/blob/master/exampleSite/config.toml). To use it, copy the [`config.toml`](https://github.com/adamglenn/wvu-design-system-hugo/blob/master/exampleSite/config.toml) in the root folder of your Hugo site. Feel free to change the strings in this theme.
 
 You may need to delete the line: `themesDir = "../.."`
 
