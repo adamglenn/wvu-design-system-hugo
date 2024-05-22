@@ -3,9 +3,8 @@
 
 name = "Ananke Gohugo Theme"
 license = "MIT"
-licenselink = "https://github.com/theNewDynamic/gohugo-theme-ananke/blob/master/LICENSE.md"
 description = "A Base theme for building full featured Hugo sites"
-homepage = "https://github.com/theNewDynamic/gohugo-theme-ananke"
+homepage = "https://github.com/adamglenn/wvu-design-system-hugo"
 tags = ["website", "starter", "responsive", "Disqus", "blog", "Tachyons", "Multilingual", "Stackbit"]
 features = ["posts", "shortcodes", "related content", "comments"]
 min_version = "0.84.0"
@@ -13,7 +12,7 @@ custom_css = ["stylesheets/styles.css"]
 
 [author]
   name = "theNewDynamic"
-  homepage = "https://www.thenewdynamic.com/"
+  homepage = "https://designsystem.wvu.edu/"
 
 sectionPagesMenu = 'main'
 
